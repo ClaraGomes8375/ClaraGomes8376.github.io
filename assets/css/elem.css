@@ -10,9 +10,9 @@
   }
 
   .imgs-ClasAnimaisMarinhos {
-    width: 300px; /* Define a largura da imagem */
+    width: 500px; /* Define a largura da imagem */
     height: auto; /* Mantém a proporção da imagem */
-    margin-right: 50px; /* Espaço entre a imagem e o texto */
+    margin-right: 5rem; /* Espaço entre a imagem e o texto */
   }
 
   .text {
