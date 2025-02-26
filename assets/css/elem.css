@@ -1,0 +1,21 @@
+/* .imgs-ClasAnimaisMarinhos{
+    width: 500px;
+    height: 300px;
+    margin-right: 20px; 
+} */
+
+.container {
+    display: flex;
+    align-items: center; /* Alinha verticalmente os itens ao centro */
+  }
+
+  .imgs-ClasAnimaisMarinhos {
+    width: 300px; /* Define a largura da imagem */
+    height: auto; /* Mantém a proporção da imagem */
+    margin-right: 50px; /* Espaço entre a imagem e o texto */
+  }
+
+  .text {
+    font-size: 18px;
+    color: #333;
+  }
