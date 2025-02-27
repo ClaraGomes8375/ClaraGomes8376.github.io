@@ -3750,6 +3750,8 @@
 				line-height: 1em;
 				margin-left: 1em;
 				padding-left: 1em;
+				transition: all ease-in-out .3s;
+				cursor: default;
 			}
 
 				#footer .copyright li:first-child {
@@ -3758,11 +3760,7 @@
 					padding-left: 0;
 				}
 
-				#footer .copyright li a {
-					color: inherit;
-				}
-
-					#footer .copyright li a:hover {
+					#footer .copyright li:hover {
 						color: #fff;
 					}
 
