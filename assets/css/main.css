@@ -3150,6 +3150,23 @@
 			z-index: 10001;
 		}
 
+		.Container-svg_AV{
+			display: flex;
+			align-items: center; /* Alinha o SVG e o texto verticalmente ao centro */
+			justify-content: center; /* Centraliza os itens horizontalmente */
+			
+
+		}
+		.svg-A_viva{
+			width: 300px;
+			height: auto;
+			fill: #fff;
+
+			
+			
+			
+		}
+
 	#menu {
 		-moz-transform: translateX(20em);
 		-webkit-transform: translateX(20em);
