@@ -2957,20 +2957,20 @@
 		}
 
 		.wrapper.style5 {
-			background-color: #ffffff;
-			color: #4E4852;
+			background-color: #000000;
+			color: #b1bcc9;
 		}
 
 			.wrapper.style5 strong, .wrapper.style5 b {
-				color: #2E3842;
+				color: #26ffed;
 			}
 
 			.wrapper.style5 h2, .wrapper.style5 h3, .wrapper.style5 h4, .wrapper.style5 h5, .wrapper.style5 h6 {
-				color: #2E3842;
+				color: #26ffed;
 			}
 
 			.wrapper.style5 hr {
-				border-color: #dfdfdf;
+				border-color: #b1bcc9;
 			}
 
 			.wrapper.style5 blockquote {
@@ -3160,7 +3160,7 @@
 		.svg-A_viva{
 			width: 300px;
 			height: auto;
-			fill: #fff;
+			filter: brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(7499%) hue-rotate(153deg) brightness(104%) contrast(104%);
 
 			
 			
@@ -3646,10 +3646,11 @@
 
 	#main > header {
 		padding: 12em 0 10em 0 ;
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/pic01.jpg");
+		background: linear-gradient(-45deg, #005D65, #2FB09D);
+		/* background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/pic01.jpg");
 		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/pic01.jpg");
 		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/pic01.jpg");
-		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/pic01.jpg");
+		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/pic01.jpg"); */
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
