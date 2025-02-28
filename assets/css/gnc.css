@@ -4,8 +4,51 @@
     height: 300px;
 } */
 
-.imgsEco-Mar {
+/* .imgsEco-Mar {
     width: 100%; 
     max-width: 500px; 
     height: auto; 
+} */
+
+/* Definindo a largura máxima das imagens e garantindo que elas sejam responsivas */
+.imgsEco-Mar {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Estilo para a seção */
+.wrapper.style5 {
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+/* Ajustes para os títulos */
+h3, h4 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+}
+
+/* Responsividade para dispositivos móveis */
+@media (max-width: 768px) {
+    h3, h4 {
+        font-size: 1.5rem;
+    }
+
+    .inner {
+        padding: 15px;
+    }
+
+    p {
+        font-size: 1rem;
+    }
+}
+
+/* Responsividade para telas maiores */
+@media (min-width: 1024px) {
+    .inner {
+        max-width: 80%;
+        margin: 0 auto;
+    }
 }
