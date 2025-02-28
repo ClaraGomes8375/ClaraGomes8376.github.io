@@ -53,3 +53,16 @@ Credits:
 
 
 #ClaraGomes8376.github.io
+
+Aluna: Maria Clara Gomes Barbosa (20221064010009)
+Aluno: André Ferreira De Oliveira (20221064010037)
+
+Tecnologias utilizadas: HTML, CSS, JS, BOOTSTRAP E GIT.
+
+Matéria escolhida : BIOLOGIA
+
+Tema abordado : "VIDA MARINHA". 
+
+Este tema foi escolhido pela diversidade de questões que abrange e pela necessidade de ser mais visto como algo urgente. Falar sobre a vida marinha é fundamental por várias razões, que vão desde a preservação do meio ambiente até a importância econômica e cultural. 
+
+usamos html e css para personalizar e alterar o layout das páginas e js para se ter mais interatividade. Bootstrap, para facilitar a criação de uma interface responsiva e git para a segurança dos dados, já que este salva o histórico das alterações feitas.
