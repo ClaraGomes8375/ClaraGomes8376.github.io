@@ -1,5 +1,11 @@
-
+/* 
 .imgsEco-Mar{
     width: 500px;
     height: 300px;
+} */
+
+.imgsEco-Mar {
+    width: 100%; 
+    max-width: 500px; 
+    height: auto; 
 }
